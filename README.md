@@ -12,7 +12,7 @@ Estudante de Análise e Desenvolvimento de Sistemas🖥️
 
 ## 💼 Competências:
 * Lógica de programação ⌨
-* Banco de dados dados 🗂️
+* Banco de dados 🗂️
 * Design 🎨
   
 ## Tecnologias que eu uso:
