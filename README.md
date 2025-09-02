@@ -18,6 +18,8 @@ Estudante de Análise e Desenvolvimento de Sistemas🖥️
 ## Tecnologias que eu uso:
 
 <p>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Java" width="50" height="50" />       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -29,13 +31,7 @@ Estudante de Análise e Desenvolvimento de Sistemas🖥️
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   
 </p>
-         
-## Frameworks:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"/>
-
-</p>
+        
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guustavohgp&show_icons=true&theme=radical)
 
