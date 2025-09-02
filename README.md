@@ -7,8 +7,8 @@ Estudante de Análise e Desenvolvimento de Sistemas🖥️
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gustavo.henriquegpires@gmail.com)
 
 ## 🛠️ Áreas:
-* Desenvolvimento Web Front-End/Back-End 💻
-* Análise de sistemas/dados 📊
+* Analista de Suporte 💻
+* Analista de Segurança 📊
 
 ## 💼 Competências:
 * Lógica de programação ⌨
