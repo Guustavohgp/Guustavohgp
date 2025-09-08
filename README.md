@@ -11,8 +11,8 @@ Estudante de Análise e Desenvolvimento de Sistemas🖥️
 * Analista de Segurança 📊
 
 ## 💼 Competências:
-* Lógica de programação ⌨
-* Banco de dados 🗂️
+* Suporte TI ⌨
+* Segurança 🗂️
 * Design 🎨
   
 ## Tecnologias que eu uso:
