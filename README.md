@@ -33,9 +33,9 @@ Estudante de Análise e Desenvolvimento de Sistemas🖥️
 </p>
         
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guustavohgp&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guustavohgp&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guustavohgp&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&cache_seconds=60)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guustavohgp&layout=compact&theme=radical&cache_seconds=86400)
 
 
 ## Transformando ideias em realidade por meio da tecnologia.
