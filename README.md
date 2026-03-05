@@ -1,5 +1,5 @@
 # Olá! Eu sou o Gustavo😁
-Estudante de Análise e Desenvolvimento de Sistemas🖥️ 
+Formado em Análise e Desenvolvimento de Sistemas🖥️ 
 
 ## 📒 Contato:
 
