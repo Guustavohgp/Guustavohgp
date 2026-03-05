@@ -32,10 +32,5 @@ Estudante de Análise e Desenvolvimento de Sistemas🖥️
   
 </p>
         
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=guustavohgp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guustavohgp&layout=compact&langs_count=8&theme=radical"/>
-
-
 ## Transformando ideias em realidade por meio da tecnologia.
 
